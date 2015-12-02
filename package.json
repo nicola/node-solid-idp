@@ -1,0 +1,24 @@
+{
+  "name": "solid-idp",
+  "version": "0.1.0",
+  "description": "Identity provider for Solid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solid/node-solid-idp"
+  },
+  "keywords": [
+    "solid",
+    "decentralized",
+    "web"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solid/node-solid-idp/issues"
+  },
+  "homepage": "https://github.com/solid/node-solid-idp"
+}
