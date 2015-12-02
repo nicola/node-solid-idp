@@ -1,6 +1,13 @@
 # node-solid-idp
 Identity provider for Solid in Node/Javascript
 
+## Features
+
+- [x] WebID profile
+- [ ] Certificate
+- [ ] Workspace creation
+- [ ] ACL
+
 ## Usage
 
 ```
