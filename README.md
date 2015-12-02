@@ -1,5 +1,5 @@
-# node-solid-idp
-Identity provider for Solid in Node/Javascript
+# solid-idp
+> Identity provider for Solid in Node/Javascript
 
 ## Features
 
@@ -11,7 +11,7 @@ Identity provider for Solid in Node/Javascript
 ## Usage
 
 ```
-$ npm install --save node-solid-idp
+$ npm install --save solid-idp
 ```
 
 ```
