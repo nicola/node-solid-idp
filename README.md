@@ -6,7 +6,7 @@
 - [x] WebID profile
 - [ ] Certificate
 - [ ] Workspace creation
-- [ ] ACL
+- [x] ACL
 
 ## Usage
 
